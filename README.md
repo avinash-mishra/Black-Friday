@@ -1,2 +1,2 @@
 # Black-Friday
-A very nice use-case to implement machine learning. 
+A very nice use-case of machine learning. 
